@@ -10,7 +10,22 @@
  - JAVA
  - Web Development
 
-<h2></h2>
+## 🔭 I’m currently working on
+
+<div align="center">
+  
+  [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+  
+</div>
+
+## 🤝 Connect with me
+
+<div align = "center">
+  
+  [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+  [Twitter](https://twitter.com/SumitT0506)
+  
+</div>
 
 <h3 align="center"> 💻 Languages and Tools </h3>
 
@@ -25,23 +40,6 @@
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
 </p>
  
-<h3 align="center"> 🔭 I’m currently working on </h3>
-
-<div align="center">
-  
-  [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
-  
-</div>
-
-<h3 align="center"> 🤝 Connect with me </h3>
-
-<div align = "center">
-  
-  [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/) <br>
-  [Twitter](https://twitter.com/SumitT0506)
-  
-</div>
-
 <h3 align="center"> 📊 My GitHub Stats  </h3>
 
 <span align="center">
