@@ -1,9 +1,11 @@
 ## Hi there, I'm [Sumit Tiwari] 👋 
 
 <p align="center">
+  
 - I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 - I am a tech enthusiast and have a passion for open-source software and app development.
 - I am also a skilled competitive programmer.
+  
 </p>
 
 <h3 align="center"> 🌱 I’m currently learning </h3>
@@ -29,20 +31,20 @@
  
 <h3 align="center"> 🔭 I’m currently working on </h3>
 
-<p align="center">
+<div align="center">
   
   [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)  
   
-</p>
+</div>
 
 <h3 align="center"> 🤝 Connect with me </h3>
 
-<p align = "center">
+<div align = "center">
   
   [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
   [Twitter](https://twitter.com/SumitT0506)
   
-</p>
+</div>
 
 <h2 align="center"> 📊 My GitHub Stats  </h2>
 
