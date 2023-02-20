@@ -30,14 +30,18 @@
 <h3 align="center"> 🔭 I’m currently working on </h3>
 
 <p align="center">
+  
   - [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+  
 </p>
 
 <h3 align="center"> 🤝 Connect with me </h3>
 
 <p align = "center">
+  
   - [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
   - [Twitter](https://twitter.com/SumitT0506)
+  
 </p>
 
 <h3 align="center"> 📊 My GitHub Stats  </h3>
