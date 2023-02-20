@@ -35,7 +35,7 @@
 
 <div align="center">
   
-  [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)  
+  [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
   
 </div>
 
@@ -43,8 +43,8 @@
 
 <div align = "center">
   
-  * [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-  * [Twitter](https://twitter.com/SumitT0506)
+  [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/) <br>
+  [Twitter](https://twitter.com/SumitT0506)
   
 </div>
 
