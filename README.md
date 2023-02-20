@@ -31,7 +31,8 @@
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
 </p>
- 
+
+<h2></h2>
 <h3 align="center"> 📊 My GitHub Stats  </h3>
 
 <span align="center">
