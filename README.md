@@ -43,8 +43,8 @@
 
 <div align = "center">
   
-  [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-  [Twitter](https://twitter.com/SumitT0506)
+  * [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+  * [Twitter](https://twitter.com/SumitT0506)
   
 </div>
 
