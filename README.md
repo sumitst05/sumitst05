@@ -16,8 +16,8 @@
 
 ## 🤝 Connect with me
 
-- <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-- <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="20"/> [Twitter](https://twitter.com/SumitT0506)
+- <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="15"/> [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+- <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="15"/> [Twitter](https://twitter.com/SumitT0506)
 
 <h2></h2>
 
