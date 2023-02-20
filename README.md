@@ -1,6 +1,4 @@
-<h2 algin="center">
-  Hi there, I'm [Sumit Tiwari] 👋 
-</h2>
+<h2 align = "center"> Hi there, I'm [Sumit Tiwari] 👋  </h2>
 
 <p align="center">
   
