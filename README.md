@@ -40,7 +40,7 @@
   
 </div>
 
-<h2 align="center"> 📊 My GitHub Stats  </h2>
+<h3 align="center"> 📊 My GitHub Stats  </h3>
 
 <span align="center">
   
