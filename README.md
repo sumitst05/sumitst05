@@ -12,9 +12,9 @@
 
 <p align="center">
   
-- Data Structures and Algorithms
-- JAVA
-- Web Development
+ Data Structures and Algorithms
+ JAVA
+ Web Development
   
 </p>
 
