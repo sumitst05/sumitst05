@@ -12,7 +12,7 @@
 
 ## 🔭 I’m currently working on
 
-[Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+[Cosmic-Dodge](https://github.com/sumitst05/Cosmic-Dodge)
 
 ## 🤝 Connect with me
 
