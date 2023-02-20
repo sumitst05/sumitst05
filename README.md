@@ -11,9 +11,11 @@
 <h3 align="center"> 🌱 I’m currently learning </h3>
 
 <p align="center">  
+  
 - Data Structures and Algorithms
 - JAVA
 - Web Development
+  
 </p>
 
 <h3 align="center"> 💻 Languages and Tools </h3>
