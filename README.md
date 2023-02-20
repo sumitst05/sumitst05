@@ -13,6 +13,7 @@
 - Web Development
 
 ## 💻 Languages and Tools
+<p align = "center">
   <img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
   <img src="https://img.icons8.com/color/512/c-programming.png" width="30"/>
@@ -21,10 +22,11 @@
   <img src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" width="30"/>
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
-
+</p>
+ 
 ## 🔭 I’m currently working on
 
-- [Project 1](https://github.com/sumitst05/Cosmic-Dodge)
+- [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
 
 ## 🤝 Connect with me
 
@@ -33,7 +35,10 @@
   
 </p>
 
-<h3 align = "center"> ## 📊 My GitHub Stats </h3>
+<h3 align = "center"> 
+  ## 📊 My GitHub Stats 
+</h3>
+
 <span align="center">
   
 <div align="center">
