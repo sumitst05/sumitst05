@@ -10,7 +10,7 @@
 
 <h3 align="center"> 🌱 I’m currently learning </h3>
 
-<p align="center">  
+<p align="center">
   
 - Data Structures and Algorithms
 - JAVA
