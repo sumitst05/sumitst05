@@ -30,14 +30,22 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
 - [Twitter](https://twitter.com/SumitT0506)
+  
 </p>
 
-<h3 align = "center">## 📊 My GitHub Stats </h3>
+<h3 align = "center"> ## 📊 My GitHub Stats </h3>
 <span align="center">
+  
 <div align="center">
+  
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitst05&show_icons=true&theme=radical)](https://github.com/sumitst05)
+  
 </div>
+  
 <div align = "center"> 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitst05&layout=compact&theme=radical)](https://github.com/sumitst05)
+  
 </div>
+  
 </span>
