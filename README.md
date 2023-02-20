@@ -10,7 +10,7 @@
  - JAVA
  - Web Development
 
-<h2 align="center"> 💻 Languages and Tools </h2>
+<h3 align="center"> 💻 Languages and Tools </h3>
 
 <p align="center">
   <img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
 </p>
  
-<h2 align="center"> 🔭 I’m currently working on </h2>
+<h3 align="center"> 🔭 I’m currently working on </h3>
 
 <div align="center">
   
@@ -31,7 +31,7 @@
   
 </div>
 
-<h2 align="center"> 🤝 Connect with me </h2>
+<h3 align="center"> 🤝 Connect with me </h3>
 
 <div align = "center">
   
