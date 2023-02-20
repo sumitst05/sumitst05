@@ -1,17 +1,17 @@
 ## Hi there, I'm [Sumit Tiwari] 👋 
 
 <p align="center">
-  - I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
-  - I am a tech enthusiast and have a passion for open-source software and app development.
-  - I am also a skilled competitive programmer.
+- I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
+- I am a tech enthusiast and have a passion for open-source software and app development.
+- I am also a skilled competitive programmer.
 </p>
 
 <h3 align="center"> 🌱 I’m currently learning </h3>
 
 <p align="center">  
-  - Data Structures and Algorithms <br>
-  - JAVA <br>
-  - Web Development <br>
+- Data Structures and Algorithms <br>
+- JAVA <br>
+- Web Development <br>
 </p>
 
 <h3 align="center"> 💻 Languages and Tools </h3>
