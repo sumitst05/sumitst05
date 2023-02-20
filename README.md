@@ -37,6 +37,6 @@
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitst05&show_icons=true&theme=radical)](https://github.com/sumitst05)
 </div>
 <div align = "center"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitst05&layout=compact&theme=radical)](https://github.com/sumitst05)
 </div>
 </span>
