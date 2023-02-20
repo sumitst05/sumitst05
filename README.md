@@ -12,12 +12,12 @@
 
 ## 🔭 I’m currently working on
 
-[Cosmic-Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+- [Cosmic-Dodge](https://github.com/sumitst05/Cosmic-Dodge)
 
 ## 🤝 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-[Twitter](https://twitter.com/SumitT0506)
+- [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+- [Twitter](https://twitter.com/SumitT0506)
 
 <h3 align="center"> 💻 Languages and Tools </h3>
 
