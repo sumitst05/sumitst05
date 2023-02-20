@@ -1,17 +1,17 @@
 <h1 align = "center"> Hi there, I'm [Sumit Tiwari] 👋  </h1>
 
 <p align="center">
-  - I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
-  - I am a tech enthusiast and have a passion for open-source software and app development.
-  - I am also a skilled competitive programmer.
+  - I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. <br>
+  - I am a tech enthusiast and have a passion for open-source software and app development. <br>
+  - I am also a skilled competitive programmer. <br>
 </p>
   
 <h3 align="center"> 🌱 I’m currently learning </h3>
 
 <p align="center">  
-  - Data Structures and Algorithms
-  - JAVA
-  - Web Development
+  - Data Structures and Algorithms <br>
+  - JAVA <br>
+  - Web Development <br>
 </p>
 
 <h3 align="center"> 💻 Languages and Tools </h3>
@@ -30,14 +30,14 @@
 <h3 align="center"> 🔭 I’m currently working on </h3>
 
 <p align="center">
-  - [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+- [Cosmic Dodge](https://github.com/sumitst05/Cosmic-Dodge)  
 </p>
 
 <h3 align="center"> 🤝 Connect with me </h3>
 
 <p align = "center">
-  - [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-  - [Twitter](https://twitter.com/SumitT0506)
+- [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+- [Twitter](https://twitter.com/SumitT0506)
 </p>
 
 <h2 align="center"> 📊 My GitHub Stats  </h2>
