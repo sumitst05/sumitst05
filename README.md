@@ -1,4 +1,4 @@
-# Hi there, I'm [Sumit Tiwari] 👋 
+# Hi there, I'm [Sumit Tiwari](https://github.com/sumitst05) 👋 
 
 - I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 - I am a tech enthusiast and have a passion for open-source software and app development.
