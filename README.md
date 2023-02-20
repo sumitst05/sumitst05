@@ -19,6 +19,8 @@
 - [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
 - [Twitter](https://twitter.com/SumitT0506)
 
+<h2></h2>
+
 <h3 align="center"> 💻 Languages and Tools </h3>
 
 <p align="center">
@@ -32,7 +34,6 @@
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
 </p>
 
-<h2></h2>
 <h3 align="center"> 📊 My GitHub Stats  </h3>
 
 <span align="center">
