@@ -41,14 +41,14 @@
   
 <div align="center">
   
-  [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitst05&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app)
+  [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitst05&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
 <div align = "center"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitst05&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitst05&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 </span>
