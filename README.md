@@ -17,22 +17,22 @@
 
 ## 🤝 Connect with me
 
-- <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="17"/> [LinkedIn](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-- <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="17"/> [Twitter](https://twitter.com/SumitT0506)
-
-<h2></h2>
+[<img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="48"/>](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
+[<img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="48"/>](https://twitter.com/SumitT0506)
+[<img src="https://img.icons8.com/color/256/replit.png" alt="Replit" width = "48"/>](https://replit.com/@sumitst05)
+<hr>
 
 <h3 align="center"> 💻 Languages and Tools </h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
-  <img src="https://img.icons8.com/color/512/c-programming.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" width="30"/>
-  <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
-  <img src="https://img.icons8.com/color/512/lua-language.png" width="30"/>
+  <a href="https://www.archlinux.org"><img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/512/c-programming.png" width="30"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/></a>
+  <a href="https://www.java.com/"><img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" width="30"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/></a>
+  <a href="https://www.lua.org/"><img src="https://img.icons8.com/color/512/lua-language.png" width="30"/></a>
 </p>
 
 <h3 align="center"> 📊 My GitHub Stats  </h3>
