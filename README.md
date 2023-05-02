@@ -9,7 +9,7 @@
  - Data Structures and Algorithms
  - C++
  - JAVA
- - Web Development
+ - Lua
 
 ## 🔭 I’m currently working on
 
