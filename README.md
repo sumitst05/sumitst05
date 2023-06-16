@@ -13,7 +13,7 @@
 
 ## 🔭 I’m currently working on
 
-- [Cosmic-Dodge](https://github.com/sumitst05/Cosmic-Dodge)
+- [MysteryNum](https://github.com/sumitst05/MysteryNum)
 
 ## 🤝 Connect with me
 
