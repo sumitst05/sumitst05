@@ -7,9 +7,9 @@
 ## 🌱 I’m currently learning
   
  - Data Structures and Algorithms
- - C++
- - JAVA
+ - Back-end development
  - Lua
+ - Rust
 
 ## 🔭 I’m currently working on
 
