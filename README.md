@@ -18,7 +18,7 @@
 ## 🤝 Connect with me
 
 [<img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="48"/>](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-[<img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="48"/>](https://twitter.com/SumitT0506)
+[<img src="https://img.icons8.com/color/256/twitterx.png" alt="X (twitter)" width="48"/>](https://twitter.com/SumitT0506)
 [<img src="https://img.icons8.com/color/256/replit.png" alt="Replit" width = "48"/>](https://replit.com/@sumitst05)
 <hr>
 
