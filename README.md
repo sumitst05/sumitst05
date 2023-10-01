@@ -22,6 +22,8 @@
 [<img src="https://img.icons8.com/color/256/replit.png" alt="Replit" width = "48"/>](https://replit.com/@sumitst05)
 <hr>
 
+[![An image of @sumitst05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitst05)](https://holopin.io/@sumitst05)
+
 <h3 align="center"> 💻 Languages and Tools </h3>
 
 <p align="center">
