@@ -13,7 +13,7 @@
 
 ## 🔭 I’m currently working on
 
-- [MysteryNum](https://github.com/sumitst05/TechTales)
+- [TechTales](https://github.com/sumitst05/TechTales)
 
 ## 🤝 Connect with me
 
