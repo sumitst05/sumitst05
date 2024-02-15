@@ -13,7 +13,7 @@
 
 ## 🔭 I’m currently working on
 
-- [TechTales](https://github.com/sumitst05/TechTales)
+- [TechTales](https://tech-tales-bpq2.onrender.com/)
 
 ## 🤝 Connect with me
 
