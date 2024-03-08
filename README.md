@@ -5,15 +5,14 @@
 - I am also a skilled competitive programmer.
 
 ## 🌱 I’m currently learning
-  
+
+ - Full stack development
+ - Go
  - Data Structures and Algorithms
- - Back-end development
- - Lua
- - Rust
 
 ## 🔭 I’m currently working on
 
-- [TechTales](https://tech-tales-bpq2.onrender.com/)
+- [TechTales](https://tech-tales-io.vercel.app/)
 
 ## 🤝 Connect with me
 
