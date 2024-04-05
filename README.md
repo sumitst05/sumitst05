@@ -1,13 +1,13 @@
 # Hi there, I'm Sumit Tiwari 👋 
 
-- I'm pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
-- I am a tech enthusiast and have a passion for open-source software and app development.
-- I am also a skilled competitive programmer.
+- Backend Developer and Maintainer at [TCET Open Source](https://github.com/tcet-opensource)
+- Find my detailed resume [here](https://drive.google.com/file/d/1pyH5Na86D4kU8W8dBACALB8vNBLoQQpm/view?usp=sharing)
+
 
 ## 🌱 I’m currently learning
 
  - Full stack development
- - Go
+ - Machine Learning Algorithms
  - Data Structures and Algorithms
 
 ## 🔭 I’m currently working on
