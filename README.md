@@ -36,7 +36,7 @@
 
 ## 📊 My GitHub Stats
 
-|[![Sumit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sumitst05&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitst05&hide=GLSL,html&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Sumit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sumitst05&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitst05&hide=GLSL,html,jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |--------------- | --------------- |
 
 ## 📌 Holopin Badges
