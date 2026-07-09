@@ -3,6 +3,7 @@
 ## 💻 Languages and Tools
 
 <p>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="48"/>
   <img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="48"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="48"/>
   <img src="https://img.icons8.com/color/512/c-programming.png" width="48"/>
