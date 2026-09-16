@@ -20,12 +20,14 @@
 
 ## 🤝 Connect with me
 
-[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/sumit-tiwari-2827561b0/)
-[<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>](https://twitter.com/SumitT0506)
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/sumit5604/)
+[<img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X"/>](https://x.com/SumitT0506)
+[<img align="center" src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="matrix"/>](https://matrix.to/#/@sumit-tiwari:ubuntu.com)
+[<img align="center" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="mastodon"/>](https://mastodon.social/@sumitst05)
 
 <hr>
 
 ## 📊 My GitHub Stats
 
-|[![Sumit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sumitst05&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitst05&hide=GLSL,html,jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Sumit's GitHub stats](https://github-stats-extended.vercel.app/api?username=sumitst05&custom_title=My%20Github%20Stat%27s&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sumitst05&hide=GLSL,html,jupyter%20notebook&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |--------------- | --------------- |
